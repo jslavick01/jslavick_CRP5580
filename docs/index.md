@@ -4,7 +4,7 @@ title: "Slavick - CRP 5580"
 header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: 0.3
-excerpt: "CRp 5580 – Web Mapping Portfolio"
+excerpt: "CRP 5580 – Web Mapping Portfolio"
 custom_head: head/custom.html
 
 ---
