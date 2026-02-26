@@ -3,7 +3,6 @@ title: "Assignment 1"
 permalink: /assignments/assign1/
 markdown: false
 ---
-
 <div class='tableauPlaceholder' id='viz1772086936901' style='position: relative'>
   <noscript>
     <a href='#'>
