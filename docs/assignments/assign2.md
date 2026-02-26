@@ -1,6 +1,6 @@
 ---
-title: "Assignment 1"
-permalink: /assignments/assign1/
+title: "Assignment 2"
+permalink: /assignments/assign2/
 markdown: false
 ---
 
