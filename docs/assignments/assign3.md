@@ -3,6 +3,11 @@ title: "Assignment 3"
 permalink: /assignments/assign3/
 markdown: false
 ---
+---
+title: "Your Page Title"
+layout: single
+classes: wide
+---
 
 <div class='tableauPlaceholder' id='viz1773296037003' style='position: relative'>
   <noscript>
