@@ -51,7 +51,7 @@ sidebar:
   - title: "Final Project"
     children:
         title: "finalproposaldraft"
-        url: /final-project/finalproposaldraft/
+        url: /final-project/finalproposaldraft.pdf
       - title: "Proposal"
         url: /final-project/proposal/
       - title: "Data Overview"
