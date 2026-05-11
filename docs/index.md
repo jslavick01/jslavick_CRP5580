@@ -2,7 +2,7 @@
 layout: splash
 title: "Slavick - CRP 5580"
 header:
-  overlay_image: /assets/images/github-header-banner.png
+  overlay_image: /assets/images/github-header-banner-2.png
   overlay_filter: 0.3
 excerpt: "CRP/LA 5580 – Web Mapping Portfolio"
 custom_head: head/custom.html
