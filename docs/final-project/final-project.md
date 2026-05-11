@@ -5,7 +5,7 @@ markdown: false
 ---
 
 <div style='overflow: hidden; width: 100%;'>
-  <div class='tableauPlaceholder' id='viz1778470350355' style='position: relative'>
+  <div class='tableauPlaceholder' id='viz1778470863597' style='position: relative'>
     <noscript>
       <a href='#'>
         <img alt=' ' 
@@ -32,7 +32,14 @@ markdown: false
 </div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1778470350355');
+  var divElement = document.getElementById('viz1778470863597');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = '100%';
+    vizElement.style.height = '850px';
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = '100%';
+    vizEl
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width = '100%';
   vizElement.style.height = (divElement.offsetWidth * 0.85) + 'px';
