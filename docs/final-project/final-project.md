@@ -1,7 +1,8 @@
 ---
 title: "Final Project"
 permalink: /final-project/dashboards/
-markdown: false
+layout: single
+classes: wide
 ---
 
 <div style='width: 100%; overflow: hidden;'>
